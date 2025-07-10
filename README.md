@@ -47,6 +47,4 @@ Live: [https://deliver-0.web.app](https://deliver-0.web.app)
 - Vercel Deployment
 
 ---
-
-## 📄 License
-This project is developed by Lakshya
+ developed by Lakshya
